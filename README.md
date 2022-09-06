@@ -1,2 +1,2 @@
-#!/bin/bash
-Devopsssss!!!!!!!!!!
+current working directory
+
